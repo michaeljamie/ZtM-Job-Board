@@ -10,7 +10,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-favicon": "0.0.14",
-    "react-scripts": "^2.1.4",
+    "react-scripts": "^4.0.2",
     "react-search-input": "^0.11.3",
     "tachyons": "^4.11.1"
   },
